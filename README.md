@@ -1,6 +1,7 @@
 # collegeboard-rekt
-it watches the collegeboard for you
+it watches the collegeboard for you 
 
+![image](https://user-images.githubusercontent.com/26909616/154624504-1fa123fc-4d17-4930-8067-f475bbc94bca.png)
 
 ## Install
 
@@ -12,5 +13,3 @@ it watches the collegeboard for you
 
 1. go to the collegeboard
 2. open the video
-
-![image](https://user-images.githubusercontent.com/26909616/154624396-e4fe3359-ca86-49fe-a573-e177338ce70c.png)
